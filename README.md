@@ -1,6 +1,6 @@
 [![MasterHead](https://tenor.com/view/header-gif-25247205)]
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">A passionate Student from LNCT University.</h3>
+<h3 align="center">Student from LNCT University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumar9" /> </p>
 
