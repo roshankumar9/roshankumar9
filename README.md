@@ -1,32 +1,49 @@
-![logo](https://github.com/roshankumar9/roshankumar9/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">A student from Bansal Institute of Science & Technology</h3>
-<img align="right" alt="coding" width="400" src"https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+# Hi there 👋, I'm Roshan!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumar9" /> </p>
+- I'm currently a student at Bansal Institute of Science & Technology. 🏛.
+-  I'm a passionate learner. I love to learn hard material and teach it to others 💡.
+-  I love to learn new technologies and use them to solve problems ✨.
 
-- 🔭 I’m currently **Improving problem solving ability**
+-🌱 I’m currently learning backend.
+- 🔭 I’m currently working on MERN project.
+- 🌱 I’m currently imporving problem solving ability.
+- 💬 Ask me about **DSA, Java, MERN, Python **
+- 📫 How to reach me: **roshankumarsharma004@gmail.com**
+## 🛠  My Tech Stack
+### **Front End:**
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+<!--![Redux](https://img.shields.io/badge/Redux%20-%2320232a.svg?&style=flat-square&logo=redux&logoColor=CAB0F4)
+![StyledComponents](https://img.shields.io/badge/styled-components%20-%23C04080.svg?&style=flat-square&logo=styled-components&logoColor=fff)
+![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/babel%20-%23CBB433.svg?&style=flat-square&logo=babel&logoColor=white) -->
 
-- 💬 Ask me about **Java, DSA, Python, MERN**
+### **Back End:**
+![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
 
-- 📫 How to reach me **roshankumarsharma004@gmail.com**
+<!-- ### **Testing:**
+![Mocha](https://img.shields.io/badge/Mocha%20-%238D6848.svg?&style=flat-square&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square&logo=chai&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest%20-%23FF6C37.svg?&style=flat-square&logo=jest&logoColor=white) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roshan-kumar-979b68269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan kumar" height="30" width="40" /></a>
-  
-<a href="https://auth.geeksforgeeks.org/user/roshankumarsm4v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshankumarsm4v" height="30" width="40" /></a>
-</p>
+### **Deployment:**
+![AWS](https://img.shields.io/badge/AWS%20-%23EA902E.svg?&style=flat-square&logo=amazon-aws&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshankumar9&show_icons=true&locale=en&layout=compact" alt="roshankumar9" /></p>
+<!-- Here are some ideas to get you started:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankumar9&show_icons=true&locale=en" alt="roshankumar9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumar9&" alt="roshankumar9" /></p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
